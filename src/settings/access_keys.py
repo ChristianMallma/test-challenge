@@ -1,0 +1,12 @@
+from decouple import config
+
+# Postgres
+POSTGRES_PASSWORD = config('POSTGRES_PASSWORD')
+POSTGRES_HOST = config('POSTGRES_HOST')
+POSTGRES_USER = config('POSTGRES_USER')
+POSTGRES_PORT = config('POSTGRES_PORT')
+POSTGRES_DATABASE = config('POSTGRES_DATABASE')
+
+# For testing
+SLEEP_PROCESS = int(config('SLEEP_PROCESS'))
+TIME_IN_CACHE = int(config('TIME_IN_CACHE'))
