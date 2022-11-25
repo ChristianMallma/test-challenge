@@ -38,3 +38,10 @@ Column name (Type)
 1. In your .env add the following:  
 *SLEEP_PROCESS=5*  
 *TIME_IN_CACHE=300*  
+
+## Open to Swagger
+1. Go to the website and type in the search engine:  
+*localhost:8084*  
+
+2. For redocs:  
+*localhost:8084/api/redocs*
