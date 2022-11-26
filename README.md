@@ -39,6 +39,9 @@ Column name (Type)
 *SLEEP_PROCESS=5*  
 *TIME_IN_CACHE=300*  
 
+2. For Tests Execution:  
+*python -m unittest*
+
 ## Open to Swagger
 1. Go to the website and type in the search engine:  
 *localhost:8084*  
