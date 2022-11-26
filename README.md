@@ -1,3 +1,5 @@
+### Description
+This project was developed based on the Hexagonal Architecture
 
 ### BD
 1. Create a database using Postgres  
