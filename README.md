@@ -30,7 +30,7 @@ Column name (Type)
 2. Open the project with the virtual environment activated
 3. Go to src folder using terminal
 4. In the terminal execute:  
-*pip install -r requirements.txt*
+*pip install -r requirements/requirements.txt*
 
 ## Start Project
 1. In the terminal execute:  
